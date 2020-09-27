@@ -36,9 +36,13 @@
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TextView"
+        android:layout_width="304dp"
+        android:layout_height="47dp"
+        android:text="This is my Third TextView"
+        android:textColor="#9C27B0"
+        android:textColorHighlight="#9C27B0"
+        android:textSize="24sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
